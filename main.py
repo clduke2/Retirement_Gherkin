@@ -1,3 +1,6 @@
+# I first attempted this with my Lesson 01 code, but thought it was naturally incompatible and too frustrating to rewrite to work with the assignment.
+# Therefore, I eventually tried using Lesson 03's version of the code instead.
+
 # ----------------------------------------------------------------------
 # Validation Functions
 #
